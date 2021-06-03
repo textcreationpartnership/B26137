@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common-Council for the government of cars, carts, carrooms, carters and carmen; and for the prevention of frauds in the buying and selling of coals.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26137</idno><idno type="EEBO-CITATION">99885099</idno>
+  <idno type="VID">190230</idno>
+  <idno type="EEBO-PROQUEST">2240895059</idno>
+  
+            <idno type="STC">Wing L2856B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[79]</idno>
+            <idno type="STC">ESTC R220663</idno>
+            <idno type="PROQUEST">ocm99885099</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885099e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190230)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common-Council for the government of cars, carts, carrooms, carters and carmen; and for the prevention of frauds in the buying and selling of coals.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark, printer to the honorable city of London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on A1v.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Urban transportation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coal trade --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:190230:1"/>
+            <pb facs="tcp:190230:1"/>
+            <p>AN ACT OF Common-Council For the Government of Cars, Carts, Carrooms, Carters and Carmen; AND FOR The Prevention of Frauds in the Buying and Selling OF COALS.</p>
+            <figure>
+               <figDesc>arms</figDesc>
+            </figure>
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honorable City of LONDON. 1677.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:190230:2"/>
+            <head>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure> Davies Mayor. Commune Concilium tentum in Camera <hi>Guild-hall, London,</hi> Vicesimo Secundo die <hi>Junii,</hi> Anno Regni Regis CAROLI Secundi, <hi>&amp;c.</hi> Vicesimo Nono.</head>
+            <p>
+               <hi>IT is Ordered by this Court, That the Act of Common-Council, Entituled,</hi> An Act for the Government of Cars, Carts, Carrooms, Carters and Carmen; and for the Prevention of Frauds in the Buying and Selling of Coals, <hi>be forthwith Printed and Published.</hi>
+            </p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:190230:2"/>
+            <head>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure> Commune Concilium tentum in Camera <hi>Guild-hall</hi> Civitatis <hi>London,</hi> die <hi>Lunae,</hi> secundo die <hi>Aprilis,</hi> Anno Domini, 1677. Annoque Regni Domini nostri CAROLI Secundi, nunc Regis <hi>Angliae,</hi> &amp;c. vicesimo nono, coram <hi>Thoma Davies</hi> Milite, Majore Civitatis prae<g ref="char:EOLhyphen"/>dict, <hi>Thoma Aleyn,</hi> Milit' &amp; Baronet', <hi>Johanne Frederick,</hi> Milit' Aldermannis, <hi>Johanne Robinson,</hi> Milit' &amp; Baronet', Alder<g ref="char:EOLhyphen"/>manno, Locum-tenente Turris <hi>London, Johanne Lawrence,</hi> Milit', <hi>Willielmo Turner,</hi> Milit', <hi>Richardo Ford,</hi> Milit', <hi>Josepho Sheldon,</hi> Milit', <hi>Francisco Chaplyn,</hi> Milit', <hi>Jacobo Edwards,</hi> Milit', <hi>Patientia Ward,</hi> Milit', <hi>Johanne Moore,</hi> Milit', <hi>Jacobo Smith,</hi> Milit', <hi>Nathanael Herne,</hi> Milit', <hi>Roberto Geoffery,</hi> Milit', &amp; <hi>Thoma Gold,</hi> Milit' &amp; Aldermannis, necnon majore parte Communiariorum de Communi Concilio ejusdem Civitatis tunc &amp; ibidem Assemblat'.</head>
+            <head type="sub">An Act for the Government of Cars, Carts, Carrooms, Carters and Carmen, and for the prevention of fraud in the Buying and Selling of Coals.</head>
+            <p>
+               <seg rend="decorInit">F</seg>OR the better and more regular ordering and disposing of all Cars, Carts, Carrooms, Carters and Carmen, and of all other per<g ref="char:EOLhyphen"/>sons whatsoever, that shall hereafter work any Cars or Carts within this City or the Li<g ref="char:EOLhyphen"/>berties thereof for Hire, Be it Enacted and Ordained by the Right Honorable the Lord Mayor, Aldermen, and Commons in Com<g ref="char:EOLhyphen"/>mon Council Assembled, and by the Authority of the same, That one Act of Common-Council made in the Mayoralty of
+<pb n="2" facs="tcp:190230:3"/> Sir <hi>John Lawrence</hi> Knight, for the Government of Cars, Carts, Carrooms, Carters and Carmen, and every Clause, Article and thing therein contained, be from henceforth Re<g ref="char:EOLhyphen"/>pealed, and the same is hereby repealed and made void to all intents and purposes.</p>
+            <p>And be it further Enacted and Declared by the Authority aforesaid, That the President and Governours of <hi>Christ, Hospital</hi> shall have the Rule, Oversight and Government of all such Cars, Carts, Carters and Carmen, and of all other persons whatsoever, that do or shall hereafter work or use any Cars or Carts within the City of <hi>London,</hi> or the Liber<g ref="char:EOLhyphen"/>ties thereof for Hire, according to the Rules. Directions and Provisions in this present Act mentioned and comprised. And the present Trade of this City being seriously considered, and to the end that all the Streets and Lanes of this City may not be pestered with Car or Carts, and His Majesties liege peo<g ref="char:EOLhyphen"/>ple have free passage by Coach or otherwise through the said Streets and Lanes.</p>
+            <p>Be it Enacted, That no more than four hundred and twenty Carts shall be allowed or permitted to work for hire from one place to another within this City or Liberties thereof, and that each of them shall be made known by having the City Arms upon the Shaft of every such Cart, and a piece of Brass with the Number upon it, and that seventeen shillings and four pence <hi>per annum,</hi> and no more shall be received and paid for a Carroom, and twenty shillings and no more or greater Fine, upon any admittance or alienation of a Carroom; which seventeen shillings and four pence <hi>per annum,</hi> and twenty shillings aforesaid, is to be wholly applyed to<g ref="char:EOLhyphen"/>wards the relief and maintenance of the poor Orphans har<g ref="char:EOLhyphen"/>boured, and to be harboured in the said <hi>Christs Hospital.</hi> And that if any person or persons, shall presume to work any Car or Carts, within the said City and Liberties for hire, by himself or servant, not being duely allowed as afore<g ref="char:EOLhyphen"/>said, such person or persons, for every time so offending, shall forfeit and pay the sum of thirteen shillings and four pence to be recovered, received, and obtained as is hereafter mentioned.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That there shall not hereafter be any Car, Cart, or Cars permitted or allowed to any Wharf, Wharfingers, Woodmongers, or other retailer or retailers in Fuel, or kept, or worked by any Wharfinger, Woodmonger, or other retailer or retailers in Fuel, after the four and twentieth day of <hi>June</hi> next, but such Car, Cart, or Cars, as are part of the said number of four hundred and twenty Cars, Licensed by the said President
+<pb n="3" facs="tcp:190230:3"/> and Governours; which are allowed the Carriage of all Wood, Coals, and other Fuel within the same City and Liberties thereof, at such rates, and in all other respects as other Goods and Commodities are used to be carried, and not otherwise. And if any Wharfinger, Woodmonger, or any other retayler in Fuel, shall presume to keep and work any Car, Cart, or Cars, contrary to the true meaning hereof, such person and persons, for every time so offending, shall forfeit and pay for the first offence, the sum of thirteen shil<g ref="char:EOLhyphen"/>lings and four pence, to be recovered and obtained, as is hereafter mentioned, and for the second, and every other offence afterward, double the said Sum of thirteen shillings and four pence, to be also Levied as is hereafter expressed.</p>
+            <p>Provided nevertheless, That it shall and may be Lawful for every person and persons with his and their own, or with any other Car, Cart, or Carts to bring out of the Country to the said City, or to fetch from the said City into the Country, any Coals, Fuel or other Goods, Wares and Merchandizes. And that it shall be Lawful for every retailer of Fuel, to bring home to his or their own houses or Wharfs, all manner of Fuel, by and with his, their own, or with any other Car, Cart, and Carts.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That such as have any Carroom or Carrooms, duly Licensed and allowed as aforesaid, shall not directly or indirectly let them out for hire to be worked by any others at any time here<g ref="char:EOLhyphen"/>after, without the approbation and allowance of the said President and Governours of <hi>Christs Hospital</hi> for the time being, first had, obtained, and attested in writing under the said Presidents Hand, to the end that none may be admitted to work any Car but such as shall be found of civil Car<g ref="char:EOLhyphen"/>riage, and able and meet for that imployment, upon pain that every person offending therein, shall forfeit the sum of ten shillings a day, for every day he shall let to hire the said Car, to be recovered as is hereafter mentioned.</p>
+            <p>And that the prizes of Carriage may be moderate, as well for the People as for the Carmen, It is Enacted, That forth<g ref="char:EOLhyphen"/>with this present year, and hereafter always from time to time as often as occasion shall require reasonable rates and prizes of Carriages within this City and Liberties, shall be set and appointed by the Court of Aldermen, they calling to their assistance such of the Commons as they shall think fit for their information therein. And the said prizes to be Printed, and set upon Posts in Publick places, and a Copy thereof to be always carried about by every respective Car<g ref="char:EOLhyphen"/>man, for the satisfaction of all persons that shall desire to
+<pb n="4" facs="tcp:190230:4"/> see the same; and if any Carman shall demand and take more than according to such rates and prizes so to be set down, such person or persons so offending, shall forfeit and pay for every such offence the sum of ten shillings, to be had and recovered as is hereafter mentioned.</p>
+            <p>It is hereby further Enacted, That if any person or per<g ref="char:EOLhyphen"/>sons Authorized to work any Car, or Carts, by himself or servant, shall neglect or refuse duly to pay the said yearly Rent of seventeen shillings and four pence a year, to the said President and Governours, for the uses aforesaid, for every the said Car, and Carts, as is beforementioned, the Car<g ref="char:EOLhyphen"/>room, that is, the Licence of such person or persons to work such Car or Carts be suspended, and such person and per<g ref="char:EOLhyphen"/>sons be disabled to work any longer by virtue of the same Licence, until he or they shall conform to the payment of the said Duty of seventeen shillings and four pence re<g ref="char:EOLhyphen"/>spectively: And if any person or persons for the cause be<g ref="char:EOLhyphen"/>forementioned, being so disabled, shall presume before con<g ref="char:EOLhyphen"/>formity, after such disallowance to use and work any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, or Cars, either by him or themselves, or by his or their ser<g ref="char:EOLhyphen"/>vant or servants, Agent or Agents, then every such person or persons, shall respectively forfeit and lose the sum of thirteen shillings and four pence, for every time they shall so work, to be recovered and applied as is hereafter menti<g ref="char:EOLhyphen"/>oned.</p>
+            <p>And for the prevention of such deceipt hereafter, as divers persons have heretofore practised in the Sale and Measure of their Coals, It is Enacted, That all, Seacoals hereafter to be sold and uttered by retail by any person or persons whatsoever, shall be filled and brought home to the Buyers in the Seacoal-meters Sacks, or such other Sacks as con<g ref="char:EOLhyphen"/>tain the full Measure of the Seacoal-meters Sacks, and are and shall be marked by the Keeper of the <hi>Guild-Hall</hi> for the time being, according to an Order of a Court of Aldermen, made the twenty fifth day of <hi>October,</hi> in the time of the Mayoralty of Sir <hi>Thomas Cambell</hi> Knight, deceased; and carried by some Street-Car or Cars, of persons duly Licensed and allowed as aforesaid, and bear<g ref="char:EOLhyphen"/>ing upon the same Cars the mark of the Red Cross for a note of their allowance, as hath anciently been ac<g ref="char:EOLhyphen"/>customed.</p>
+            <p>And that all person and persons vending or uttering Sea<g ref="char:EOLhyphen"/>coals by retail, and every Carman his Servant or Agent, shall hereafter from time to time and at all times, when they carry or send abroad any Coals, within this City of <hi>London</hi> or Li<g ref="char:EOLhyphen"/>berties thereof, carry along in their Car or Carts, together
+<pb n="5" facs="tcp:190230:4"/> with their Seacoals a good and lawful Bushel Sealed, ac<g ref="char:EOLhyphen"/>cording to the Bushel in the <hi>Guild-Hall,</hi> allowed for Measu<g ref="char:EOLhyphen"/>ring of Seacoals, which agreeth with the Fat antiently used for Measuring of Seacoals.</p>
+            <p>But if any person or persons shall bring home, in his or their Cart or Car, to any Buyer, any Coals in any other Sack or Sacks, and without such Bushel as are beforementioned and appointed, such person so offending shall forfeit and pay ten shillings for the first, and every other offence respectively.</p>
+            <p>And be it Enacted by the Authority aforesaid, That the said President and Governours of <hi>Christs Hospital,</hi> shall for time to come observe, perform, and execute such Legal Acts, Orders, and Rules, as are, or shall be made by the Common-Council, or Court of Lord Mayor and Aldermen of this City for the time being, for, touching and concerning the Govern<g ref="char:EOLhyphen"/>ment, Licensing, and Regulation of Cars, Carts, Carters and Carmen, working for hire within the City and Li<g ref="char:EOLhyphen"/>berties, or touching or concerning the Measures or Assize of Coal-Sacks, Coals, or other Fuel, or any Matter or Thing, to the same or any of them in any wise belonging or ap<g ref="char:EOLhyphen"/>pertaining.</p>
+            <p>And whereas divers Woodmongers, and others, using to sell and utter Coals by Retail within this City and Li<g ref="char:EOLhyphen"/>berties, in design to raise and enhance the prizes thereof, for their own private gain and commodity, have commonly here<g ref="char:EOLhyphen"/>tofore gone or sent down the River of <hi>Thames,</hi> or otherwise travelled and imployed their Agents to meet the Ships, and Vessels, coming from <hi>New-Castle,</hi> and other parts, towards this City laden with Coals, and at distant places from the said City, or by precontract within the same City and Li<g ref="char:EOLhyphen"/>berties, have bought up, forestalled, and ingrossed great quan<g ref="char:EOLhyphen"/>tities of Coals which should have been brought to the said City, by the Owners and Sellers thereof, to be there sold and uttered at reasonable prizes, and the same have conveyed and brought to the said City, to sell again at high and ex<g ref="char:EOLhyphen"/>cessive prizes against the Custom and Priviledg of this City, and to the Publick detriment, oppression of the poor, and great charge of all others inhabiting and dwelling within the said City and Liberties thereof.</p>
+            <p>For reformation hereof, Be it Enacted, Ordained, and Established by the Authority aforesaid, That no Free-man of the said City, shall from and after the First day of <hi>May</hi> now next ensuing either by himself, or any for him, or to his use provide, buy, bargain and contract for any Sea-coals, Scotch coals, Pit-coals, or other Coals coming towards this City, to be sold, other than such as shall be provided and
+<pb n="6" facs="tcp:190230:5"/> bought to be spent within their own private houses, and that no person whatsoever, who hath bought Coals coming to the said City to be sold, shall sell and utter the same within the said City and Liberties thereof, but that the Owners and Sellers thereof at their own cost and charges shall and may bring the same Coals to the City themselves, here by them to be sold, upon pain that all and every person and persons what<g ref="char:EOLhyphen"/>soever, that shall offend contrary to the true intent and mean<g ref="char:EOLhyphen"/>ing hereof, shall forfeit and lose five shillings for every Chal<g ref="char:EOLhyphen"/>dron of Seacoals, and the like sum for every Tun of Scotch-coals or Pit-coals that shall be bought, bargained, or contracted for, contrary to the intent and true meaning of this Act, to be recovered as is hereafter mentioned.</p>
+            <p>And it is Enacted, That the Yeomen of the Wood-wharfs of this City for the time being, shall from time to time dili<g ref="char:EOLhyphen"/>gently over-see, that all persons coming and repairing to this City with any manner of Coals beforementioned, to be sold, do and shall observe and keep the Orders, Rules, and Di<g ref="char:EOLhyphen"/>rections before-going: And that they and also the Marshals of this City, and their servants respectively shall use their utmost endeavour in the execution of this Act, and shall use all diligence for the discovery and punishment of all offenders, in or about any particular thereof, according to the intent and meaning of this Act.</p>
+            <p>And Lastly, it is Enacted, That all peins, penalties, and for<g ref="char:EOLhyphen"/>feitures, in and by this Act before limited and appointed, shall and may be levied by distress of the goods of the person so offending in the said City, to be found or recovered by action of Debt, Bill, or Information, in the name of the Chamber<g ref="char:EOLhyphen"/>lain of this City for the time being in His Majesties Court holden before the Lord Mayor and Aldermen of the said City, in the Chamber of the <hi>Guil-Hall</hi> of the City of <hi>London.</hi> And after recovery thereof, one Moity (after all charges deducted) shall be to the Informer, and the other Moity to the poor of <hi>Christs Hospital</hi> in <hi>London,</hi> to be imploied for and towards their relief.</p>
+            <p>In all which Suits to be brought by this Act, the Chamberlain shall, in case he do recover, be allowed his ordinary costs and charges, to be expended in and for recovery of all such for<g ref="char:EOLhyphen"/>feitures against the offender or offenders; and in case upon a Trial the Verdict shall pass for the Defendant, or in case the party shall be nonsuit, or discontinue his Suit, in every such case the Defendant shall also recover his reasonable costs.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honorable City of <hi>London.</hi>
+            </p>
+            <pb facs="tcp:190230:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
